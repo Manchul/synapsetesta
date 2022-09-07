@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--deasynapseplh-demo",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ad21829d-fc06-43f5-8df9-0817f98430ff/resourceGroups/deasyanpseplh-rg/providers/Microsoft.Synapse/workspaces/deasynapseplh-demo",
+		"groupId": "sql",
+		"fqdns": [
+			"deasynapseplh-demo.4a2bbbb0-d38d-48d4-ad36-2fd1d3df1f18.sql.azuresynapse.usgovcloudapi.net"
+		]
+	}
+}
