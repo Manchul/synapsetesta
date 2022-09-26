@@ -1,0 +1,7 @@
+{
+	"name": "CognitiveService369",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ad21829d-fc06-43f5-8df9-0817f98430ff/resourceGroups/agov-fr-demo-rg/providers/Microsoft.CognitiveServices/accounts/ta007",
+		"groupId": "account"
+	}
+}
